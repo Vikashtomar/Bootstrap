@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mainheader a.navbar-brand {
+    color: #fff;
+    font-weight: bold;
+}
+
+
+.mainheader .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: #fff;
+    font-weight: bold;
+    padding: 14px;
+    font-size: 22px;
+    margin: 5px;
+}
+
+.mainheader .bg-success {
+    background-color: #3F51B5!important;
+}
